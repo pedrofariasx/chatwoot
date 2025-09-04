@@ -26,9 +26,9 @@ class ChatwootHub
 
 def self.pricing_plan_quantity
 	​if pricing_plan == 'premium'
-	​	​100000
+	​	  ​100000
 	​else
-	​	​0
+	​	  ​0
 	​end
 end
 
